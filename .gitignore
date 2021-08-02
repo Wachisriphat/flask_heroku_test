@@ -1,0 +1,5 @@
+env/
+flaskenv/
+image/
+old_recrument_person_update.txt
+__pycache__/
